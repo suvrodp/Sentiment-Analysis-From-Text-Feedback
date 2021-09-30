@@ -29,5 +29,5 @@ https://www.kaggle.com/arnabpml/zomato-reviews-sentiment-analysis/data
 2. ```analysis.pkl``` - Stores a dictionary of words used in our training data
 4. ```classifier model``` - Used to store our trained ML model to later use in prediction
 5. ```background.jpg``` - Background image of our web app
-6. ```setup.sh``` - Sets up the cloud environment on heroku
+6. ```setup.sh``` - Shell file that sets up the cloud environment on heroku
 7. ```Procfile``` - Gives the necessary commandss to heroku which are required to deploy our app
