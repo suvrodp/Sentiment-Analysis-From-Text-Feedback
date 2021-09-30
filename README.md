@@ -13,6 +13,9 @@ Steps to be followed:
 
       1. They can be installed using the ```pip install -r requirements.txt``` command in the terminal
 
+5. Finally run the project using ```streamlit run predictor.py``` in the terminal
+6. A local web app will be deployed which has the necessary instructions to analyze the sentiment of your review.
+
 ## Files in the repository
 1. main.py - This is the python file where we have trained our ML model.
 1. predictor.py - This is the python file where we have made our predictor and necessary codes to deploy our model.
