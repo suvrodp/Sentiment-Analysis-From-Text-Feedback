@@ -30,4 +30,4 @@ https://www.kaggle.com/arnabpml/zomato-reviews-sentiment-analysis/data
 4. ```classifier model``` - Used to sstore our trained ML model to later use in prediction
 5. ```background.jpg``` - Background image of our web app
 6. ```setup.sh``` - Sets up the cloud environment on heroku
-7. ```Procfile``` - Gives the necessary command to heroku required to deploy our app
+7. ```Procfile``` - Gives the necessary commandss to heroku which are required to deploy our app
