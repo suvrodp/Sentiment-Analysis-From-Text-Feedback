@@ -5,7 +5,7 @@ We have deployed our project on cloud using heroku. It can be accessed using the
 https://sentiment-analyzer-web-app.herokuapp.com/
 
 ## Running the project locally
-###Steps to be followed:
+### Steps to be followed:
 1. Download the zip file
 2. Setup your virtual environment
 3. Extract the zipped contents to the environment
