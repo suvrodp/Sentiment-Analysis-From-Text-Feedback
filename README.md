@@ -9,8 +9,7 @@ Steps to be followed:
 1. Download the zip file
 2. Setup your viryual environment
 3. Extract the zipped contents to the environment
-4. Install the necessary libraries specified in ```bash
-  requirements.txt```
+4. Install the necessary libraries specified in ```requirements.txt```
 
 ## Files in the repository
 1. main.py - This is the python file where we have trained our ML model.
