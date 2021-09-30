@@ -16,6 +16,10 @@ https://sentiment-analyzer-web-app.herokuapp.com/
 5. Finally run the project using ```streamlit run predictor.py``` in the terminal
 6. A local web app will be deployed which has the necessary instructions to analyze the sentiment of your review.
 
+## Dataset
+Link to the dataset used in the project:
+https://www.kaggle.com/arnabpml/zomato-reviews-sentiment-analysis/data?select=Restaurant+reviews.csv
+
 ## Files in the repository
 1. main.py - This is the python file where we have trained our ML model.
 1. predictor.py - This is the python file where we have made our predictor and necessary codes to deploy our model.
