@@ -1,5 +1,5 @@
 # Sentiment-Analysis-From-Text-Feedback
-## Online deployment link
+## Online deployment
 We have deployed our project on cloud using heroku. It can be accessed using the following link:
 
 https://sentiment-analyzer-web-app.herokuapp.com/
