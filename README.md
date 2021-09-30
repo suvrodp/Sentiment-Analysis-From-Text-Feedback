@@ -27,7 +27,7 @@ https://www.kaggle.com/arnabpml/zomato-reviews-sentiment-analysis/data
 1. ```reviews.csv``` - The dataset we have used to train our model
 1. ```requirements.txt``` - It contains all the necessary libraries required for the project
 2. ```analysis.pkl``` - Stores a dictionary of words used in our training data
-4. ```classifier model``` - Used to sstore our trained ML model to later use in prediction
+4. ```classifier model``` - Used to store our trained ML model to later use in prediction
 5. ```background.jpg``` - Background image of our web app
 6. ```setup.sh``` - Sets up the cloud environment on heroku
 7. ```Procfile``` - Gives the necessary commandss to heroku which are required to deploy our app
