@@ -11,7 +11,7 @@ Steps to be followed:
 3. Extract the zipped contents to the environment
 4. Install the necessary libraries specified in ```requirements.txt```
 
-      1. They can be installed using ```pip install -r requirements.txt``` command in the terminal
+      1. They can be installed using the ```pip install -r requirements.txt``` command in the terminal
 
 ## Files in the repository
 1. main.py - This is the python file where we have trained our ML model.
