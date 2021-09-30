@@ -7,7 +7,7 @@ https://sentiment-analyzer-web-app.herokuapp.com/
 ## Running the project locally
 Steps to be followed:
 1. Download the zip file
-2. Setup your viryual environment
+2. Setup your virtual environment
 3. Extract the zipped contents to the environment
 4. Install the necessary libraries specified in ```requirements.txt```
 
