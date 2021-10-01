@@ -14,7 +14,8 @@ https://sentiment-analyzer-web-app.herokuapp.com/
       1. They can be installed using the ```pip install -r requirements.txt``` command in the terminal
 
 5. Finally run the project using ```streamlit run predictor.py``` in the terminal
-6. A local web app will be deployed which has the necessary instructions to analyze the sentiment of your review.
+6. A local web app will be deployed.
+7. Enter your review in the text box and press ```CTRL+ENTER``` to get the sentiment prediction.
 
 ## Dataset
 Link to the dataset used in the project:
